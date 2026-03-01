@@ -4,3 +4,7 @@ httpx
 python-dotenv
 duckdb
 pydantic
+requests
+pandas
+python-dotenv
+pyarrow
